@@ -19,3 +19,8 @@ anthony:
 ohan
 
 5) I created an initial Java project in the repo to get it started.
+
+6) To test that you have everything confiugred correctly, add your name to this file, and push it.
+To make sure it pushed to the remote server, you can check in GitHub to see if you see your name here.
+(Note: make sure you are looking at the branch in GitHub that you pushed to)
+a) Matt
